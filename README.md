@@ -1,4 +1,25 @@
-## Hi there 👋
+Olá, eu sou o KranionTaxz 👋
+
+Atuais áreas em que procuro atuar:
+Builder
+Programador (Luau, Python, JavaScript)
+Modelador(Blender)
+
+Engines em que estou familiarizado:
+Luau Engine (Roblox Studio)
+
+|-----------------CATS-----------------|
+
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/464ee5a6-73eb-4471-a935-f8910533f3a4" />
+
+|--------------------------------------|
+Uma experiência do roblox que está em desenvolvimento por mim!
+
+
+
+
+
+
 
 <!--
 **KranionTaxz/KranionTaxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
