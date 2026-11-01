@@ -37,6 +37,8 @@ O jogador recebe pontos visto o seu desempenho durante a partida, como, sobreviv
 Os gatos aparecem na partida após 20 segundos de preparo, eles saem de um portal, ao qual terá 3 pontos aleatórios que podem aparecer durante cada partida.
 Para evitar problemas com o roblox, os gatos vão ter aparência modificada, com transformações, para deixarem menos parecidos com gatos da vida real.
 
+❗ O JOGO AINDA AINDA ESTA EM DESENVOLVIMENTO ❗
+
 Link da experiência -> https://www.roblox.com/pt/games/71956566785910/Cats
 ___
 |-----Other Places...-----|
